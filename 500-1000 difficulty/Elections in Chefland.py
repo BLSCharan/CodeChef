@@ -4,3 +4,4 @@ for _ in range(t):
     ages=list(map(int,input().split()))
     c=sum(1 for i in ages if i>=y)
     print(c)
+  
