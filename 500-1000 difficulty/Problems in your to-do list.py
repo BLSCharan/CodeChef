@@ -5,3 +5,4 @@ for _ in range(T):
     to_remove = sum(1 for d in difficulties if d >= 1000)
     print(to_remove)
 
+   
