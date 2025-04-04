@@ -6,3 +6,4 @@ for _ in range(T):
     print(to_remove)
 
    
+   
