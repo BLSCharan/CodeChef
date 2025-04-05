@@ -9,6 +9,6 @@ for _ in range(t):
     for i in range(n):
         if a[i] <= 2 * b[i] and b[i] <= 2 * a[i]:
             happy_days += 1
-
+ 
     print(happy_days)
     
