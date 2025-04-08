@@ -14,7 +14,7 @@ while(1<=t):
         else:
             c=0
     if hard:
-        print("NO")
+        print("NO")  
     else:
         print("YES")
     t-=1
