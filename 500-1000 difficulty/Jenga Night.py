@@ -6,3 +6,4 @@ while(1<=t):
     else:
         print("NO")
     t-=1
+ 
